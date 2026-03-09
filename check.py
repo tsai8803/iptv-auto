@@ -1,7 +1,7 @@
 import requests
 
 input_file = "source.txt"
-output_file = "tv.txt"
+output_file = "tsai-tv2.txt"
 
 timeout = 5
 
