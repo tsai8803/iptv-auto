@@ -1,7 +1,4 @@
-中國電影頻道,http://tl.061833.xyz/tl/null-6
-CHC动作电影,http://m.061899.xyz/mg/dzdy
-CHC影迷电影,http://m.061899.xyz/mg/ymdy
-CHC家庭影院,http://m.061899.xyz/mg/jtyy
+
 📺央卫网络,#genre#
 CCTV1,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv1
 CCTV2,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv2
@@ -771,7 +768,10 @@ PopC电影,http://tl.061833.xyz/tl/popc
 
 纬来电影,https://smt.1678520.xyz/smt3.2.3.php?id=videolandmovie
 纬来电影,https://cdn9.163189.xyz/smt3.1.1.php?id=videolandmovie
-
+中國電影頻道,http://tl.061833.xyz/tl/null-6
+CHC动作电影,http://m.061899.xyz/mg/dzdy
+CHC影迷电影,http://m.061899.xyz/mg/ymdy
+CHC家庭影院,http://m.061899.xyz/mg/jtyy
 
 AXNTaiwan   
 CINEMAX 
@@ -1276,3 +1276,4 @@ HD音乐,https://lhttp.qingting.fm/live/15318341/64k.mp3
 世界华声,https://sk.cri.cn/hxfh.m3u8
 China Plus Radio,https://sk.cri.cn/am846.m3u8
 HITFM国际流行音乐,https://sk.cri.cn/887.m3u8
+
